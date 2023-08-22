@@ -37,5 +37,6 @@ public class  ArrayListExamples{
         // TO GET LAST ELEMENT OF THE LIST
         System.out.println(lst1.get(lst1.size()-1)); // It might give a Runtime error if list is empty
         
+
     }
 }
